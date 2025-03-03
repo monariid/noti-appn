@@ -40,7 +40,7 @@ Notie is a modern note-taking application built with Expo and React Native, offe
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/notie.git
+git clone https://github.com/monariid/noti-app
 ```
 
 2. Install dependencies:
@@ -88,9 +88,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@monarid](https://github.com/monariid)
 
-Project Link: [https://github.com/yourusername/notie](https://github.com/yourusername/notie)
+Project Link: [https://github.com/monariid]([)](https://github.com/monariid/noti-app)
 ```
 
 This README provides a comprehensive overview of your project, including:
